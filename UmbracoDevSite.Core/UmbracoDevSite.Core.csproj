@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{22663E77-3B53-47A7-BE32-432A4D53D850}</ProjectGuid>
+    <ProjectGuid>{1CCEEDEE-765B-42BF-BD3C-6B1A05279868}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>UmbracoDevSite.Core</RootNamespace>
